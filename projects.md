@@ -1,6 +1,3 @@
-    <title>Hind Raeialboom's Projects</title>
-</head>
-<body>
     <h1>My Projects</h1>
 
     <h2>1. Project 1 for CSS class</h2>
